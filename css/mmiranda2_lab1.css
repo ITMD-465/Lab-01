@@ -1,12 +1,14 @@
 h3 {
 	text-align: center;
 	font-family: Arial, Amatic SC, sans-serif;
+	margin: auto;
 }
 h1 {
 	text-align: center;
 	font-family: Arial, Amatic SC, sans-serif;
 	font-weight: bold;
 	padding-bottom: 20px;
+	margin: auto;
 }
 p {
 	text-align: left;
@@ -17,30 +19,35 @@ fieldset {
 	margin: auto;
 	padding-right: 20px;
 	padding-left: 20px;
+	background-color: #f0f8ff;
 }
 input {
 	text-align: right;
 	width: 100%;
+	color: #cce7ff;
 }
 #sales_tax_field {
-	...
+	color: #103a89;
 }
 #total_field {
-	...
+	color: #103a89;
 }
 #calculate_button {
-	...
+	border-color: #003666;
 }
 #clear_button {
-	...
+	border-color: #003666;
 }
 img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	width: 100% ;
+	height: auto;
 }
 #bottom_text {
 	text-align: center;
 	font-size: 10pt;
 	padding-bottom: 10px;
+	margin: auto;
 }
